@@ -29,7 +29,7 @@ def index():
      <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('https://i.ibb.co/k0FrLnh/Snapinsta-app-446585272-465721035974161-7203544009380796951-n-1080.jpg');
+            background-image: url('https://i.imgur.com/uMwcqtB.jpeg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
